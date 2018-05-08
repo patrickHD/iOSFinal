@@ -1,0 +1,23 @@
+{
+    "status": "ok",
+  "notes": [
+    {
+    "notetype": "general",
+    "title": "Network Phone#s",
+    "content": "Mike - 555-5555. Austin - 444-4444",
+    "date": "2017-06-14 18:00"
+    },
+    {
+    "notetype": "list",
+    "title": "Shopping",
+    "content": "Milk. Eggs. Bread.",
+    "date": "2017-06-15 11:10"
+    },
+    {
+    "notetype": "school",
+    "title": "Physics Ch1",
+    "content": "Gravity - 9.81m/s^2. Force - F = ma. Always draw a force diagram to find net force.",
+    "date": "2017-07-10 01:15"
+    }
+  ]
+}
